@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../Ruby"
+		},
+		{
+			"path": "../../../Desktop/HTML課題"
+		},
+		{
+			"path": "../../../Sinatra"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML課題"
+	}
+}
